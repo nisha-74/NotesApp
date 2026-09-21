@@ -5,7 +5,7 @@ A modern and simple **Notes App** built using **Kotlin and Jetpack Compose**, fo
 ## 📱 App Screenshots
 
 <p align="center">
-  <img src="screenshots/design.png" width="400"/>
+    <img src="./screenshots/design.png" width="200"/>
 
 </p>
 
